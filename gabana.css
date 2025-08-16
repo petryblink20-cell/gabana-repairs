@@ -1,0 +1,9 @@
+.gallery img {
+  max-width: 100%;
+  height: auto;
+}
+.gallery img {
+  width: 250px;   /* sets the display width */
+  height: auto;   /* keeps the right aspect ratio */
+  border-radius: 8px;
+}
